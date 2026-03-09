@@ -6,8 +6,6 @@ This report is professionally structured for a GitHub repository. You can save t
 
 **Platform:** NodeMCU (ESP8266) & Blynk Cloud
 
-**Contributors:** Tarush Chawla, Ujjwal Kumar Rai
-
 ---
 
 ## 📄 Project Overview

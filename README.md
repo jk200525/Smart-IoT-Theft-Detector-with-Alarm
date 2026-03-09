@@ -61,7 +61,3 @@ The **Smart IoT Theft Detector** is a low-cost, intelligent security solution de
 1. **Circuitry:** Connect the components as per the circuit diagram (available in the documentation).
 2. **Configuration:** Replace the `Auth Token`, `SSID`, and `Password` in the provided code.
 3. **Deployment:** Upload the code via Arduino IDE and set up the Blynk Dashboard with a Button (V1), Terminal (V2), and Notification widget.
-
----
-
-*This project was developed as part of the ECE-282: IoT with NodeMCU course at Lovely Professional University.*

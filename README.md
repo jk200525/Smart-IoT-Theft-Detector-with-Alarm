@@ -1,5 +1,3 @@
-This report is professionally structured for a GitHub repository. You can save this text as a `README.md` file in your project folder.
-
 # Smart IoT Theft Detector with Alarm & Servo Lock
 
 **Project Category:** IoT / Home Security
